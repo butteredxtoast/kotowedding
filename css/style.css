@@ -1,0 +1,86 @@
+body {
+	font-family: 'Gothic A1', sans-serif;
+}
+.headingsmall {
+	font-family: 'Great Vibes', cursive;
+	color: #521e1e;
+}
+.headingbig {
+	font-family: 'Big Shoulders Display', cursive;
+}
+.social-icon {
+	width: 30px;
+	height: 30px;
+	border-radius: 100%;
+	background-color: bisque;
+	border: 1px solid #521e1e;
+}
+.description h2 {
+	font-size: 18px;
+	margin-bottom: 0;
+}
+.description span {
+	font-size: 12px;
+	font-weight: 700;
+}
+.sticky {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	z-index: 999999;
+}
+.carousel-caption {
+	position: absolute;
+	top: 28%;
+}
+.carousel-caption h5 {
+	font-family: 'Great Vibes', cursive;
+	font-size: 78px;
+}
+.bg-move-outer {
+	position: relative;
+	overflow: hidden;
+}
+.simpleParallax {
+	position: absolute;
+}
+.bg-move {
+	width: 100%;
+	min-height: 1000px;
+}
+.bg-date {
+	background: url("../img/cta.jpg");
+}
+.sm-image {
+	width: 200px;
+}
+.img-round-new {
+	width: 250px;
+	height: 250px;
+	margin: 0 auto 20px;
+	border-radius: 50%;
+}
+.btn {
+	border-radius: 0;
+}
+.rsvp-section {
+	background: url("../img/bottom-form-bg.jpg");
+}
+.form-control {
+	border-radius: 0;
+	padding: 26px;
+	background-color: rgba(255,255,255,0.8);
+	border: none;
+}
+label {
+	font-weight: 600;
+}
+.bg-black {
+	background-color: rgba(000,000,000,0.5);
+	border: 4px double rgba(255,255,255,0.3);
+}
+@media (max-width:768px) {
+.dd{
+margin-bottom:40px;	
+}
+}
