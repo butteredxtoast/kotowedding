@@ -50,6 +50,7 @@ body {
 }
 .bg-date {
 	background: url("../img/cta.jpg");
+	background-position: bottom;
 }
 .sm-image {
 	width: 200px;
