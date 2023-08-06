@@ -65,7 +65,7 @@ body {
 	border-radius: 0;
 }
 .rsvp-section {
-	background: url("../img/PXL_20230225_010608784.jpg");
+	background: url("../img/rsvp-background-alt.jpg");
 }
 .form-control {
 	border-radius: 0;
@@ -82,6 +82,9 @@ label {
 }
 @media (max-width:768px) {
 .dd{
-margin-bottom:40px;	
+margin-bottom:40px;
+}
+.br {
+	margin-bottom: 10em
 }
 }
