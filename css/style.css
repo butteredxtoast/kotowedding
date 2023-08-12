@@ -2,11 +2,13 @@ body {
 	font-family: 'Gothic A1', sans-serif;
 }
 .headingsmall {
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Monoton', cursive;
 	color: #521e1e;
 }
 .headingbig {
-	font-family: 'Big Shoulders Display', cursive;
+	/* font-family: 'Tilt Prism', cursive; */
+	font-family: 'Monoton', cursive;
+
 }
 .social-icon {
 	width: 30px;
@@ -34,7 +36,7 @@ body {
 	top: 28%;
 }
 .carousel-caption h5 {
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Monoton', cursive;
 	font-size: 78px;
 }
 .bg-move-outer {
@@ -62,7 +64,7 @@ body {
 	border-radius: 50%;
 }
 .btn {
-	border-radius: 0;
+	border-radius: 12px;
 }
 .rsvp-section {
 	background: url("../img/rsvp-background-alt.jpg");
