@@ -2,12 +2,12 @@ body {
 	font-family: 'Gothic A1', sans-serif;
 }
 .headingsmall {
-	font-family: 'Monoton', cursive;
+	font-family: 'Borel', cursive;
 	color: #521e1e;
 }
 .headingbig {
 	/* font-family: 'Tilt Prism', cursive; */
-	font-family: 'Monoton', cursive;
+	font-family: 'Borel', cursive;
 
 }
 .social-icon {
@@ -36,7 +36,7 @@ body {
 	top: 28%;
 }
 .carousel-caption h5 {
-	font-family: 'Monoton', cursive;
+	font-family: 'Borel', cursive;
 	font-size: 78px;
 }
 .bg-move-outer {
