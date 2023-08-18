@@ -72,8 +72,9 @@ body {
 	min-height: 1000px;
 }
 .bg-date {
-	background: url("../img/cta.jpg");
+	background: url("../img/tongue-out-corner-min.jpg");
 	background-position: bottom;
+	height: auto;
 }
 .sm-image {
 	width: 200px;
@@ -89,7 +90,7 @@ body {
 }
 .rsvp-section {
 	/* background: url("../img/rsvp-background-alt-2.jpg"); */
-	background: url("../img/tongue-out-corner-min.jpg");
+	background: url("../img/cta.jpg");
 	width: 100%;
 	height: auto;
 	max-width: 100vw;
