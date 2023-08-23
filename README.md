@@ -1,2 +1,1 @@
-# kotowedding
-# kotowedding
+Hello. This is a website I made for my upcoming wedding. If you stumble across this page, the images included are not free use, but you're welcome to fork the template and alter as see fit :)
